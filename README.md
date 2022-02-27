@@ -1,28 +1,18 @@
-## Bootstrap Coming Soon Template
+# yashuscb.github.io
 
-Free Beautiful animated [Bootstrap](http://getbootstrap.com) coming soon template page with a catchy design, SEO ready & integrated with mailchimp.
+#For adding resume, add below lines of code:
 
-Template Link & Preview [Coming Soon](http://www.scoopthemes.com/templates/Coming-Soon-Template/)
-
-### Features
-
-+ Built With Bootstrap 3 Latest Stable Version.
-+ CSS3 Animation
-+ Catchy Design
-+ Mailchimp Integration.
-+ SEO Ready.
-+ W3C Valid HTML5.
-
-### Author
-
-Built with all the love in the world by Scoop Themes.
-
-Feel free to check more of our open source templates and themes [http://scoopthemes.com](http://scoopthemes.com).
-
-Follow us on twitter and stay tuned for any upcoming free items [@ScoopThemes](https://twitter.com/ScoopThemes).
-
-### License
-
-All demos and examples, whether in a code project’s repository or displayed on a Scoop Themes site, are released under the terms of [CC0](http://en.wikipedia.org/wiki/Creative_Commons_license/).
-
-CC0 is even more permissive than the MIT license, allowing you to use the code in any manner you want, without any copyright headers, notices, or other attribution.
+ <section class="resume" id="resume" style = " padding-top: 10%;">
+    <div class="jumbotron text-center" >     
+       <embed>
+          <iframe
+             src="Yash_Bhanushali_Resume.pdf"
+              width="100%"
+              height="950px"
+              style="border: none;">
+              <p>Your browser does not support PDFs.
+             <!-- <a href="https://github.com/saee21/saee21.github.io/blob/main/Saee_Gore_Resume.pdf">Download the PDF</a>.</p> -->
+           </iframe>
+       </embed>
+   </div>
+</section>
